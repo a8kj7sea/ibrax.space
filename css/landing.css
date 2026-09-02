@@ -87,6 +87,17 @@ body{
   transform:translateY(-1px);
 }
 
+.social-icon{
+  transition:all 0.3s cubic-bezier(0.22,1,0.36,1);
+}
+.social-icon:hover{
+  background:var(--terracotta);
+  color:#FFFFFF;
+  border-color:var(--terracotta);
+  transform:translateY(-3px);
+  box-shadow:0 8px 20px rgba(217,119,87,0.25);
+}
+
 .stage{
   position:relative;
   height:260px;
@@ -200,6 +211,12 @@ a:focus-visible,button:focus-visible{
   outline:2px solid var(--terracotta);
   outline-offset:3px;
   border-radius:10px;
+}
+
+@media (max-width: 640px) {
+  .stage { height: 220px; }
+  .bubble-wrap { bottom: 185px; }
+  .bubble-card { min-width: 160px; padding: 8px 14px; }
 }
 
 @media (prefers-reduced-motion: reduce){
