@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Certificate in Machine Learning and Python Fundamentals",
+    "issuer": "The Hope International Edu",
+    "date": "2025-09",
+    "credentialId": "",
+    "credentialUrl": "",
+    "image": "https://media.licdn.com/dms/image/v2/D4E2DAQEFSE4vgWSkqw/profile-treasury-document-cover-images_800/B4EZlwh_zMKsA8-/0/1758529587265?e=1790607600&v=beta&t=14QoK3UqvcTA6CX_rxWE2fuyv11YREJIMrXQD4-tM_c",
+    "description": "Completed a technical training program covering Python programming and machine learning at the entry level. The program included essential topics such as Python syntax, data structures, object-oriented programming, file handling, and error management. It also provided practical experience with libraries like NumPy and Pandas, along with foundational machine learning techniques including linear regression, polynomial regression, decision trees, support vector regression, and random forest. Training involved applying these concepts to real-world datasets using Jupyter Notebook and Anaconda.",
+    "whatILearned": [
+      "Python syntax, data structures, object-oriented programming, file handling, and error management",
+      "Practical experience with data analysis and scientific computing using NumPy and Pandas",
+      "Foundational machine learning techniques including linear regression, polynomial regression, decision trees, support vector regression, and random forest",
+      "Applying machine learning concepts to real-world datasets using Jupyter Notebook and Anaconda"
+    ],
+    "tags": [
+      "Python Programming",
+      "Machine Learning",
+      "Machine Learning Algorithms",
+      "Applied Machine Learning",
+      "Data Analysis with Pandas",
+      "NumPy for Scientific Computing",
+      "Regression Models"
+    ]
+  }
+]
