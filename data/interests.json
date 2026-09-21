@@ -1,0 +1,54 @@
+{
+  "interests": [
+    {
+      "title": "System Architecture & Low-Level Logic",
+      "icon": "systems",
+      "description": "Designing high-performance distributed backend infrastructure, proxy routing, and custom event buses. Obsessed with low-latency messaging, clean architecture, and runtime bytecode manipulation.",
+      "category": "Technology"
+    },
+    {
+      "title": "Chess & Tactical Strategy",
+      "icon": "chess",
+      "description": "Tactical pattern recognition, deep endgame study, and game board mechanics. I play regularly online, analyze PGNs, and explore digital chess platform design concepts.",
+      "category": "Strategy"
+    },
+    {
+      "title": "Open-Source & Tooling",
+      "icon": "opensource",
+      "description": "Building and maintaining open-source Java frameworks, security plugins, developer utilities, and browser extensions. Believer in modular, community-driven software design.",
+      "category": "Community"
+    },
+    {
+      "title": "AI & Robotics Engineering",
+      "icon": "ai",
+      "description": "Exploring machine learning algorithms, image processing, and AI fundamentals — bridging high-level software intelligence with hardware integration.",
+      "category": "Technology"
+    }
+  ],
+  "hobbies": [
+    {
+      "title": "Music Production & Guitar",
+      "icon": "music",
+      "description": "Playing guitar and producing beats across genres like Phonk, Schranz, Hip-Hop, and Indie Rock. Sound design is just another form of layered architecture.",
+      "category": "Creative"
+    },
+    {
+      "title": "Embedded Systems & Hardware",
+      "icon": "robot",
+      "description": "Building physical prototypes with microcontrollers like ESP32-S3 and Arduino Uno, using C/C++ and inline assembly to interface with RFID, sensors, and PWM logic.",
+      "category": "Hands-on"
+    },
+    {
+      "title": "Gaming & Server Systems",
+      "icon": "game",
+      "description": "Playing Counter-Strike 2, Rust, and strategy games natively on Fedora Linux. Fascinated by low-level game networking, packet protocols, and high-concurrency environments.",
+      "category": "Entertainment"
+    },
+    {
+      "title": "Calisthenics & Fitness",
+      "icon": "fitness",
+      "description": "Calisthenics skill progressions and strength training. Applying the same discipline and incremental refinement from software to physical performance.",
+      "category": "Health"
+    }
+  ]
+}
