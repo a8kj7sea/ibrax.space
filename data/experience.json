@@ -1,0 +1,71 @@
+[
+  {
+    "company": "OGXMC Network",
+    "logo": "https://avatars.githubusercontent.com/u/255773967?s=400&u=cfa2e410574477b1973df658f0711dc70ca294f6&v=4",
+    "website": "",
+    "location": "Remote",
+    "totalDuration": "2026 – Present",
+    "roles": [
+      {
+        "title": "Core Backend & Systems Engineer",
+        "type": "Contract / Part-time",
+        "period": "2026 – Present",
+        "duration": "2026 – Present",
+        "location": "Remote",
+        "description": "Architecting core backend infrastructure, low-level network components, lobby mechanics, and custom internal systems for OGXMC.",
+        "highlights": [
+          "Engineered main OGX Core systems, lobby infrastructure, internal network pipelines, and a cross-network Punishment system",
+          "Forked and enhanced Limbo server implementation, adding a custom plugin extension engine to load lightweight modules alongside critical fixes and stability patches",
+          "Built low-level network routing, AFK handling systems, and high-performance server connection layers for smooth player flow"
+        ],
+        "skills": ["Java 21", "Low-Level Logic", "Velocity", "Limbo Architecture", "Internal Networking", "Redis", "Systems Design"]
+      }
+    ]
+  },
+  {
+    "company": "Freelance / Self-Employed",
+    "logo": "",
+    "website": "https://a8kj.dev",
+    "location": "Remote",
+    "totalDuration": "2023 – Present",
+    "roles": [
+      {
+        "title": "Systems Architect & Java Backend Engineer",
+        "type": "Freelance",
+        "period": "2023 – Present",
+        "duration": "3 years+",
+        "location": "Remote",
+        "description": "Designing high-performance backend systems, proxy networks, and low-level software infrastructure for Minecraft server networks and private clients.",
+        "highlights": [
+          "Built custom open-source libraries and distributed tools including ProxyGuard (defense-in-depth proxy security), Relayra (Redis messaging framework), and FluxEvents (runtime Bytecode event bus)",
+          "Architected multi-proxy network architectures using Velocity, Paper, and Docker containers for player authentication, connection filtering, and traffic routing",
+          "Delivered end-to-end backend logic, relational database schemas, and asynchronous input middleware for various production server setups"
+        ],
+        "skills": ["Java 21", "Velocity", "Paper/Spigot", "Redis", "PostgreSQL / MySQL", "Docker", "Netty", "Low-Level Logic"]
+      }
+    ]
+  },
+  {
+    "company": "Seeking New Opportunities",
+    "logo": "",
+    "website": "",
+    "location": "Open to remote / hybrid",
+    "totalDuration": "Present",
+    "isSeeking": true,
+    "roles": [
+      {
+        "title": "Open to Software Engineering roles",
+        "type": "",
+        "period": "Present",
+        "duration": "",
+        "location": "Open to remote / hybrid",
+        "description": "Actively looking for a position where I can contribute my skills in Java backend development, systems architecture, and scalable infrastructure.",
+        "highlights": [
+          "Seeking roles in backend Java development, distributed systems architecture, API design, or systems engineering",
+          "Actively publishing open-source libraries, microservice frameworks, and building production-grade server infrastructure"
+        ],
+        "skills": ["Java", "Systems Architecture", "Spring Boot", "Micronaut", "Redis", "RESTful APIs", "SQL"]
+      }
+    ]
+  }
+]
