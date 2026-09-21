@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Building a Dynamic Configuration Engine: The Architecture of Moxie-Config",
+    "date": "2026-02-15",
+    "excerpt": "A deep dive into designing Moxie-Config — a flexible configuration management framework supporting POJO entity mapping and YAML merging for Velocity and Bukkit platforms.",
+    "image": "",
+    "link": "https://github.com/a8kj7sea/Moxie",
+    "tags": ["Java 21", "Architecture", "Velocity", "Configuration"]
+  },
+  {
+    "title": "Eliminating Reflection Overhead in Event Buses with ByteBuddy",
+    "date": "2026-03-01",
+    "excerpt": "How I engineered FluxEvents — leveraging runtime bytecode generation in Java 21 to build a high-performance event handling engine without reflection overhead.",
+    "image": "",
+    "link": "https://github.com/a8kj7sea/FluxEvents",
+    "tags": ["Java 21", "ByteBuddy", "Low-Level Logic", "Performance"]
+  },
+  {
+    "title": "Defense-in-Depth Proxy Security: Implementing ProxyGuard",
+    "date": "2026-08-10",
+    "excerpt": "Securing backend server infrastructure against direct unauthorized connections, network routing exploits, and spoofed traffic using a dedicated Velocity proxy layer.",
+    "image": "",
+    "link": "https://github.com/a8kj7sea/ogxmc/ProxyGuard",
+    "tags": ["Java 21", "Velocity", "Proxy Security", "Networking"]
+  }
+]
