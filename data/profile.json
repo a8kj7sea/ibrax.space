@@ -1,0 +1,36 @@
+{
+  "name": "Ibrahim Athamaneh",
+  "title": "Systems Architect & Java Backend Engineer",
+  "subtitle": "Backend Infrastructure · Low-Level Systems · AI & Robotics",
+  "avatar": "https://avatars.githubusercontent.com/u/104179839?v=4",
+  "email": "contact@ibrax.space",
+  "github": "https://github.com/a8kj7sea",
+  "linkedin": "https://www.linkedin.com/in/ibrax/",
+  "location": "Jordan",
+  "availability": "Open to opportunities",
+  "shortBio": "Java Backend Engineer & Systems Architect specializing in high-concurrency infrastructure, proxy routing, and low-level event pipelines. AI & Robotics graduate dedicated to clean architecture, zero-overhead logic, and dependable execution.",
+  "heroTagline": "& I architect high-performance backends that scale & Breath.",
+  "heroIntro": "Engineered for low latency, reliability, and clean architecture. Welcome to my digital space.",
+  "stats": [
+    { "label": "Primary stack", "value": "Java 21 · Redis" },
+    { "label": "Focus", "value": "Backend · Infrastructure" },
+    { "label": "Status", "value": "Open to work" }
+  ],
+  "navItems": [
+    { "name": "Home",          "to": "/"               },
+    { "name": "About",         "to": "/about"          },
+    { "name": "Experience",    "to": "/experience"     },
+    { "name": "Projects",      "to": "/projects"       },
+    { "name": "Skills",        "to": "/skills"         },
+    { "name": "Certs",         "to": "/certifications" },
+    { "name": "Interests",     "to": "/interests"      },
+    { "name": "Posts",         "to": "/posts"          },
+    { "name": "Contact",       "to": "/contact"        }
+  ],
+  "bubbleMessages": [
+    "Hello there — glad you stopped by!",
+    "Actively open to new software engineering roles.",
+    "Obsessed with zero-overhead logic & clean code ✨",
+    "Building high-performance systems that scale."
+  ]
+}
