@@ -1,0 +1,28 @@
+{
+  "intro": "Backend Engineer & Systems Architect, quietly obsessive about clean architecture, high-performance systems, and hardware-software integration.",
+  "paragraphs": [
+    "I am a Backend Software Engineer and Systems Architect with a strong foundation in Artificial Intelligence and Robotics. My expertise lies in designing scalable microservices, low-level network programming, and distributed systems. I am passionate about writing highly optimized code, solving complex architectural challenges, and building resilient backend infrastructures.",
+    "With deep knowledge of modern Java (up to version 21), Spring Boot, Micronaut, and message brokers like Redis (Pub/Sub & Streams) and NATS, I specialize in crafting high-throughput server environments. My background in embedded systems (C/C++, ESP32) uniquely positions me to bridge the gap between advanced software logic and physical hardware."
+  ],
+  "highlights": [
+    {
+      "title": "Systems Architecture & Backend",
+      "body": "Designing robust microservices, RESTful APIs, and distributed event-driven systems using Java, Spring Boot, PostgreSQL, and Redis."
+    },
+    {
+      "title": "Low-Level & Network Programming",
+      "body": "Building high-performance proxies, defense-in-depth security, and custom protocols utilizing Netty and bytecode generation."
+    },
+    {
+      "title": "AI & Embedded Systems",
+      "body": "Applying machine learning, image processing, and developing hardware integrations using C/C++ and ESP32 microcontrollers."
+    }
+  ],
+  "education": {
+    "degree": "Diploma in AI and Robotics Engineering",
+    "institution": "Al-Balqa' Applied University (BAU)",
+    "period": "Graduated (2026)",
+    "gpa": "Excellent (90.4 / 100)",
+    "details": "Graduated with honors. Key focus areas included Artificial Intelligence, Machine Learning, Image Processing, Embedded Systems, C++, and Object-Oriented Principles."
+  }
+}
