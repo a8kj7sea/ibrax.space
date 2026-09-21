@@ -1,0 +1,44 @@
+[
+  {
+    "title": "Primary Languages & Core Logic",
+    "items": [
+      { "name": "Java (OOP, Concurrency, Core)", "level": 85 },
+      { "name": "C / C++ (Embedded Logic)", "level": 60 },
+      { "name": "Python (Data Structures & Machine Learning)", "level": 11 }
+    ]
+  },
+  {
+    "title": "Backend Engineering & Systems",
+    "items": [
+      { "name": "Minecraft Development (Velocity, Paper, Spigot)", "level": 55 },
+      { "name": "Redis (Streams & Pub/Sub)", "level": 35 },
+      { "name": "MySQL", "level": 30 },
+      { "name": "NATS Messaging", "level": 14 },
+      { "name": "Bytecode Manipulation (ByteBuddy) & Dynamic Architecture", "level": 12 },
+      { "name": "Spring Boot", "level": 35, "learning": true }
+    ]
+  },
+  {
+    "title": "AI & Embedded Systems",
+    "items": [
+      { "name": "Machine Learning Fundamentals (NumPy, Pandas)", "level": 11 },
+      { "name": "Embedded Hardware (Arduino, ESP32)", "level": 50 }
+    ]
+  },
+  {
+    "title": "Frontend & Layout Design",
+    "items": [
+      { "name": "HTML5 · CSS3 (Web Applications & Print Layouts)", "level": 40 },
+      { "name": "Vue 3", "level": 22 }
+    ]
+  },
+  {
+    "title": "DevOps, Tools & Infrastructure",
+    "items": [
+      { "name": "Git & GitHub Workflows", "level": 45 },
+      { "name": "Maven", "level": 44 },
+      { "name": "Linux Environment (Fedora, Systemd, Shell)", "level": 33 },
+      { "name": "Docker Containerization", "level": 20 }
+    ]
+  }
+]
