@@ -1,0 +1,51 @@
+[
+  {
+    "title": "Moxie Configuration",
+    "link": "https://github.com/a8kj7sea/Moxie",
+    "description": "A high-performance configuration engine that treats files as dynamic templates. It decouples data storage from file logic, ensuring thread-safe, memory-efficient, and transformable configuration management.",
+    "tags": ["Java", "OOP", "Design patterns", "YAML", "TOML", "Annotations"],
+    "date": "2024-04"
+  },
+  {
+    "title": "Mattc — Rule-based Tokenizer",
+    "link": "https://github.com/a8kj7sea/Mattc",
+    "description": "An advanced lexer (tokenizer) developed for a custom programming language project called Zeta.",
+    "tags": ["Java", "Compiler design", "Lexer"],
+    "date": "2024-02"
+  },
+  {
+    "title": "a8kJson (JSON Library)",
+    "link": "https://github.com/a8kj7sea/a8kJson",
+    "description": "A simple, from-scratch JSON parser library built during a trial task for Maqsam.",
+    "tags": ["Java", "JSON", "Parser"],
+    "date": "2024-01"
+  },
+  {
+    "title": "ReplyBot (Discord Bot)",
+    "link": "https://github.com/a8kj7sea/ReplyBot",
+    "description": "A Discord bot creating a cross-server ticket system for private communication.",
+    "tags": ["Java", "Discord API", "Bots"],
+    "date": "2023-11"
+  },
+  {
+    "title": "LootboxesAPI (Spigot Plugin)",
+    "link": "https://github.com/a8kj7sea/Lootboxes",
+    "description": "A Spigot API for custom lootboxes in Minecraft using ArmorStand entities for random prizes.",
+    "tags": ["Java", "Spigot API", "Minecraft"],
+    "date": "2023-08"
+  },
+  {
+    "title": "Captcha Library",
+    "link": "https://github.com/a8kj7sea/captcha",
+    "description": "A Java library for generating and utilizing CAPTCHA challenges with customizable characters.",
+    "tags": ["Java", "Security", "Library"],
+    "date": "2023-05"
+  },
+  {
+    "title": "CVWizard Scraper",
+    "link": "https://github.com/a8kj7sea/CVWizard-Scraper",
+    "description": "A tool that scrapes CV data from CVWizard and converts it into a clean PDF, saving costs.",
+    "tags": ["Java", "Web scraping", "PDF"],
+    "date": "2023-02"
+  }
+]
