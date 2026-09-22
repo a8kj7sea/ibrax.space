@@ -13,7 +13,7 @@ export const ExperiencePage = {
       <div class="max-w-4xl mx-auto">
 
         <div class="mb-8 sm:mb-10 fade-up d1">
-          <div class="eyebrow mb-3"><span class="eyebrow-line"></span>03 — Experience<span class="eyebrow-line"></span></div>
+          <div class="eyebrow mb-3"><span class="eyebrow-line"></span>02 — Experience<span class="eyebrow-line"></span></div>
           <h2 class="font-display text-2xl sm:text-3xl lg:text-4xl font-medium tracking-tight text-ink">Where I've worked</h2>
           <p class="mt-3 text-sm sm:text-base text-inkSoft leading-relaxed max-w-2xl">Companies I've contributed to and the roles I've grown through over time.</p>
         </div>
