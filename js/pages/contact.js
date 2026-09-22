@@ -20,7 +20,7 @@ export const ContactPage = {
     <section class="px-4 sm:px-6 lg:px-8 pt-24 sm:pt-28 pb-8 sm:pb-10">
       <div class="max-w-3xl mx-auto text-center">
         <div class="mb-8 sm:mb-10 fade-up d1">
-          <div class="eyebrow mb-3"><span class="eyebrow-line"></span>06 — Contact<span class="eyebrow-line"></span></div>
+          <div class="eyebrow mb-3"><span class="eyebrow-line"></span>08 — Contact<span class="eyebrow-line"></span></div>
           <h2 class="font-display text-2xl sm:text-3xl lg:text-4xl font-medium tracking-tight text-ink">Say hello</h2>
           <p class="mt-3 text-sm sm:text-base text-inkSoft leading-relaxed max-w-2xl mx-auto">Whether you're hiring, mentoring, or just curious — my inbox is genuinely open.</p>
         </div>
