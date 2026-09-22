@@ -25,7 +25,7 @@ export const InterestsPage = {
       <div class="max-w-5xl mx-auto">
 
         <div class="mb-8 sm:mb-10 fade-up d1">
-          <div class="eyebrow mb-3"><span class="eyebrow-line"></span>07 — Interests<span class="eyebrow-line"></span></div>
+          <div class="eyebrow mb-3"><span class="eyebrow-line"></span>06 — Interests<span class="eyebrow-line"></span></div>
           <h2 class="font-display text-2xl sm:text-3xl lg:text-4xl font-medium tracking-tight text-ink">Beyond the code</h2>
           <p class="mt-3 text-sm sm:text-base text-inkSoft leading-relaxed max-w-2xl">What shapes my thinking, fuels my curiosity, and keeps me balanced.</p>
         </div>
